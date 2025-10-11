@@ -9,7 +9,7 @@
 👨‍💻 &nbsp;Actualmente trabajo como Ingeniero QA con experiencia en desarrollo de software y desarrollo web.\
 💡 &nbsp;Me apasiona investigar y aprender nuevas tecnologías para seguir creciendo profesionalmente.\
 🎓 &nbsp;Soy egresado en Ingeniería Informática de la Universidad Nacional de Trujillo.\
-🌍 &nbsp;Tengo 24 años y vivo en San José – Pacasmayo, Perú.
+🌍 &nbsp;Tengo 24 años y vivo en San José – Pacasmayo, Perú.\
 🌱 &nbsp;Estoy en constante aprendizaje sobre automatización de pruebas, frameworks modernos, inteligencia artificial y desarrollo full stack.\
 🎮 &nbsp;En mi tiempo libre disfruto ser autodidacta, jugar videojuegos, y compartir momentos con animales, ya que valoro profundamente la vida.\
 💬 &nbsp;No dudes en contactarme para colaboraciones, intercambio de ideas o simplemente una buena charla sobre tecnología.\

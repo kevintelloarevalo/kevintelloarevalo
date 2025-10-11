@@ -1,0 +1,33 @@
+name: 🐍 Generar animación de commits (Snake)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Corre automáticamente cada día a medianoche UTC
+  workflow_dispatch:       # Permite ejecutarlo manualmente desde GitHub Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 🧭 1. Clona la rama main (donde está tu README)
+      - name: Checkout rama main
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      # 🐍 2. Genera la animación del snake
+      - name: Generar SVG del snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: kevintelloarevalo     # tu usuario exacto
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # 💾 3. Sube el archivo a la misma rama (main) sin borrar nada más
+      - name: Subir animación al repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Actualiza snake 🐍" || echo "No hay cambios que hacer"
+          git push origin main

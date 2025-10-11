@@ -87,11 +87,10 @@
   <a href="https://www.facebook.com/kevin.tello2k" target="_blank"><img src="https://img.shields.io/badge/-Kevin%20Tello%20Arevalo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-
 ### 🐍 &nbsp;Así se mueven mis commits...
 
 <div align="center">
   <a href="https://github.com/kevintelloarevalo">
-  <img src="https://github.com/kevintelloarevalo/kevintelloarevalo/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+    <img src="https://raw.githubusercontent.com/kevintelloarevalo/kevintelloarevalo/main/dist/github-contribution-grid-snake.svg" alt="snake" />
   </a>
 </div>

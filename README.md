@@ -1,5 +1,3 @@
-![Aditya Kanoi Banner](https://media.licdn.com/dms/image/v2/D4E16AQFTN5kFbKIG8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731214209413?e=1762992000&v=beta&t=dtMDwzZIBhMTJvX0PRSBzbN8fl9S26QswDh0mpMPOGI)
-
 <h2 align="left">👋 Hola! Soy Kevin Tello Arevalo</h2>
 
 <!-- ## 👋 &nbsp;Hola! Soy Kevin Tello Arevalo -->
